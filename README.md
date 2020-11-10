@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMiltier&count_private=true&layout=compact&langs_count=10&hide=html,makefile,rich%20text%20format&theme=vue)](https://github.com/JMiltier)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMiltier&count_private=true&layout=compact&langs_count=10&hide=html,makefile,rich%20text%20format&theme=vue&show_icons&hide_border)](https://github.com/JMiltier)
 
-[![JMiltier's github stats](https://github-readme-stats.vercel.app/api?username=JMiltier&count_private=true&custom_title=Github%20Stats&theme=vue&show_icons&include_all_commits=true&hide=stars,issues&layout=compact)](https://github.com/JMiltier)  
+[![JMiltier's github stats](https://github-readme-stats.vercel.app/api?username=JMiltier&count_private=true&custom_title=Github%20Stats&theme=vue&show_icons&include_all_commits=true&hide=stars,issues&layout=compact&show_icons&hide_border)](https://github.com/JMiltier)  
 
-[![JMiltier's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JMiltier&compact&theme=vue)](https://github.com/JMiltier)
+[![JMiltier's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JMiltier&compact&theme=vue&show_icons&hide_border)](https://github.com/JMiltier)
 
 
 
