@@ -5,7 +5,7 @@
 
 [![JMiltier's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMiltier&count_private&layout=compact&langs_count=10&hide=html,makefile,rich%20text%20format&theme=vue&hide_border=true&include_all_commits=true&count_private=true&title_color=33bef4)](https://github.com/JMiltier)
 
-[![JMiltier's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JMiltier&compact&theme=vue&show_icons&hide_border=true&title_color=33bef4)](https://github.com/JMiltier)
+<!--[![JMiltier's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JMiltier&compact&theme=vue&show_icons&hide_border=true&title_color=33bef4)](https://github.com/JMiltier)-->
 
 <!--START_SECTION:waka-->
 ```text
