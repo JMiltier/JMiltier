@@ -7,6 +7,8 @@
 
 [![JMiltier's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JMiltier&compact&theme=vue&show_icons&hide_border=true&title_color=33bef4)](https://github.com/JMiltier)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
