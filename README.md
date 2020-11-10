@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMiltier&count_private=true&layout=compact&langs_count=10&hide=html,makefile,rich%20text%20format&theme=tokyonight)](https://github.com/JMiltier/github-readme-stats)
-![JMiltier's github stats](https://github-readme-stats.vercel.app/api?username=JMiltier&count_private=true&custom_title=Github%20Stats&theme=tokyonight&show_icons&include_all_commits=true&hide=stars,issues&layout=compact)  
-[![JMiltier's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JMiltier&theme=tokyonight&show_icons&include_all_commits=true)]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMiltier&count_private=true&layout=compact&langs_count=10&hide=html,makefile,rich%20text%20format&theme=vue)
+
+![JMiltier's github stats](https://github-readme-stats.vercel.app/api?username=JMiltier&count_private=true&custom_title=Github%20Stats&theme=vue&show_icons&include_all_commits=true&hide=stars,issues&layout=compact)  
+
+![JMiltier's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JMiltier&compact&theme=vue)
 
 
 
