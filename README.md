@@ -9,7 +9,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C++          1 hr 22 mins    ██████████████████▓░░░░░░   75.05 % 
+Markdown     26 mins         ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
 ```
 <!--END_SECTION:waka-->
 
