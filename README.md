@@ -10,8 +10,8 @@
 Past Week
 <!--START_SECTION:waka-->
 ```text
-C++          1 hr 22 mins    ██████████████████▓░░░░░░   75.05 % 
-Markdown     26 mins         ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+C++          1 hr 22 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀   75.05 % 
+Markdown     26 mins         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.14 % 
 ```
 <!--END_SECTION:waka-->
 
