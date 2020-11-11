@@ -3,11 +3,11 @@
 
 <!--[![JMiltier's github stats](https://github-readme-stats.vercel.app/api?username=JMiltier&count_private=true&custom_title=Github%20Stats&theme=vue&show_icons&include_all_commits=true&hide=stars,issues&layout=compact&show_icons&hide_border=true&count_private&icon_color=33bef4&title_color=33bef4)](https://github.com/JMiltier)  -->
 
-[![JMiltier's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMiltier&count_private&layout=compact&langs_count=10&hide=html,makefile,rich%20text%20format,css,dockerfile&theme=solarized-light&hide_border=true)](https://github.com/JMiltier)
+<!--[![JMiltier's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMiltier&count_private&layout=compact&langs_count=10&hide=html,makefile,rich%20text%20format,css,dockerfile&theme=solarized-light&hide_border=true)](https://github.com/JMiltier) -->
 
 <!--[![JMiltier's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JMiltier&compact&theme=vue&show_icons&hide_border=true&title_color=33bef4)](https://github.com/JMiltier)-->
 
-💻 Past Week
+Past Week
 <!--START_SECTION:waka-->
 ```text
 C++          1 hr 22 mins    ██████████████████▓░░░░░░   75.05 % 
