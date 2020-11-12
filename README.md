@@ -7,7 +7,7 @@
 
 <!--[![JMiltier's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JMiltier&compact&theme=vue&show_icons&hide_border=true&title_color=33bef4)](https://github.com/JMiltier)-->
 ---
-#### This past week:
+#### What I've been working on this past week:
 <!--START_SECTION:waka-->
 ```text
 JSX          11 hrs 25 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   75.18 % 
