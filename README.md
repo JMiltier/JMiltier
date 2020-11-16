@@ -5,9 +5,10 @@
 
 <!--[![JMiltier's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMiltier&count_private&layout=compact&langs_count=10&hide=html,makefile,rich%20text%20format,css,dockerfile&theme=solarized-light&hide_border=true)](https://github.com/JMiltier) -->
 
-<!--[![JMiltier's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JMiltier&compact&theme=vue&show_icons&hide_border=true&title_color=33bef4)](https://github.com/JMiltier)-->
+
 ---
 #### What I've been working on this past week:
+<!-- [![JMiltier's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JMiltier&hide=html&layout=compact&theme=graywhite&hide_border=true)](https://github.com/JMiltier) -->
 <!--START_SECTION:waka-->
 ```text
 JavaScript   19 hrs 35 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.02 % 
