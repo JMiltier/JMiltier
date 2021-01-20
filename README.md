@@ -11,7 +11,7 @@
 <!-- [![JMiltier's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JMiltier&hide=html&layout=compact&theme=graywhite&hide_border=true)](https://github.com/JMiltier) -->
 <!--START_SECTION:waka-->
 ```text
-Markdown   29 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Markdown   2 hrs 16 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.81 % 
 ```
 <!--END_SECTION:waka-->
 
